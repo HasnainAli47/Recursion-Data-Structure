@@ -5,8 +5,8 @@ Welcome to the repository containing solutions to various recursion practice que
 ## List of Questions:
 
 1. **Print Numbers Recursively:**
-   1.1. **Write a recursive function to print numbers from n to 1.**
-   1.2. **Write a recursive function to print numbers from 1 to n.**
+   1.1. Write a recursive function to print numbers from n to 1.<br>
+   1.2. Write a recursive function to print numbers from 1 to n.
 
 2. **Sum of Numbers:**
    2.1. **Write a recursive function to calculate the sum of all natural numbers up to a given number n. Start from n to 1.**
