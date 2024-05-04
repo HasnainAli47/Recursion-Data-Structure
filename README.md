@@ -42,7 +42,8 @@ Welcome to the repository containing solutions to various recursion practice que
     * * * *
     * * *
     * *
-    * 
+    *
+ 
 12. **Bubble Sort:**
     Write function to do the bubble sort recursively.
 
