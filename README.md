@@ -5,12 +5,12 @@ Welcome to the repository containing solutions to various recursion practice que
 ## List of Questions:
 
 1. **Print Numbers Recursively:**
-   1.1. *Write a recursive function to print numbers from n to 1.*
-   1.2. *Write a recursive function to print numbers from 1 to n.*
+   1.1. **Write a recursive function to print numbers from n to 1.**
+   1.2. **Write a recursive function to print numbers from 1 to n.**
 
 2. **Sum of Numbers:**
-   2.1. Write a recursive function to calculate the sum of all natural numbers up to a given number n. Start from n to 1.
-   2.2. Write a recursive function to calculate the sum of all natural numbers up to a given number n. Start from 1 to n.
+   2.1. **Write a recursive function to calculate the sum of all natural numbers up to a given number n. Start from n to 1.**
+   2.2. **Write a recursive function to calculate the sum of all natural numbers up to a given number n. Start from 1 to n.**
    
 3. **Nth Fibonacci Number:**
    Write a recursive function to calculate the nth Fibonacci number.
@@ -19,8 +19,8 @@ Welcome to the repository containing solutions to various recursion practice que
    Write a recursive function to perform a binary search on a sorted list of integers.
 
 5. **Factorial:**
-   5.1. Write a recursive function to calculate the factorial of a non-negative integer. (n till 1)
-   5.2. Write a recursive function to calculate the factorial of a non-negative integer. (1 till n)
+   5.1. **Write a recursive function to calculate the factorial of a non-negative integer. (n till 1)**
+   5.2. **Write a recursive function to calculate the factorial of a non-negative integer. (1 till n)**
    
 6. **Power of a Number:**
    Write a recursive function to calculate the power of a number. 
