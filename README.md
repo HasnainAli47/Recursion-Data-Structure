@@ -4,38 +4,38 @@ Welcome to the repository containing solutions to various recursion practice que
 
 ## List of Questions:
 
-1. **Print Numbers Recursively:**
+1. **Print Numbers Recursively:**<br>
    1.1. Write a recursive function to print numbers from n to 1.<br>
-   1.2. Write a recursive function to print numbers from 1 to n.
+   1.2. Write a recursive function to print numbers from 1 to n.<br>
 
-2. **Sum of Numbers:**
-   2.1. **Write a recursive function to calculate the sum of all natural numbers up to a given number n. Start from n to 1.**
-   2.2. **Write a recursive function to calculate the sum of all natural numbers up to a given number n. Start from 1 to n.**
+2. **Sum of Numbers:**<br>
+   2.1. Write a recursive function to calculate the sum of all natural numbers up to a given number n. Start from n to 1.<br>
+   2.2. Write a recursive function to calculate the sum of all natural numbers up to a given number n. Start from 1 to n.<br>
    
-3. **Nth Fibonacci Number:**
-   Write a recursive function to calculate the nth Fibonacci number.
+3. **Nth Fibonacci Number:**<br>
+   Write a recursive function to calculate the nth Fibonacci number.<br>
 
-4. **Binary Search:**
-   Write a recursive function to perform a binary search on a sorted list of integers.
+4. **Binary Search:**<br>
+   Write a recursive function to perform a binary search on a sorted list of integers.<br>
 
 5. **Factorial:**
-   5.1. **Write a recursive function to calculate the factorial of a non-negative integer. (n till 1)**
-   5.2. **Write a recursive function to calculate the factorial of a non-negative integer. (1 till n)**
+   5.1. Write a recursive function to calculate the factorial of a non-negative integer. (n till 1)<br>
+   5.2. Write a recursive function to calculate the factorial of a non-negative integer. (1 till n)<br>
    
-6. **Power of a Number:**
-   Write a recursive function to calculate the power of a number. 
+6. **Power of a Number:**<br>
+   Write a recursive function to calculate the power of a number. <br>
 
-7. **Palindrome Check:**
-   Write a recursive function to check if a given string is a palindrome or not.
+7. **Palindrome Check:**<br>
+   Write a recursive function to check if a given string is a palindrome or not.<br>
 
-8. **Reverse a String:**
-   Write a recursive function to reverse a string.
+8. **Reverse a String:**<br>
+   Write a recursive function to reverse a string.<br>
 
-9. **Sum of Digits:**
-    Write a recursive function to calculate the sum of digits of a positive integer.
+9. **Sum of Digits:**<br>
+    Write a recursive function to calculate the sum of digits of a positive integer.<br>
 
-10. **Sorted Array:**
-    Write a function to check if an array is sorted or not
+10. **Sorted Array:**<br>
+    Write a function to check if an array is sorted or not<br>
 
 11. **Stars Pattern:**
     Write a function to print the following star pattern.
