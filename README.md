@@ -39,9 +39,7 @@ Welcome to the repository containing solutions to various recursion practice que
 
 11. **Stars Pattern:**<br>
     Write a function to print the following star pattern.<br>
-    ****
-    ***
-    **
+    * *
     *
  
 13. **Bubble Sort:**<br>
