@@ -37,19 +37,20 @@ Welcome to the repository containing solutions to various recursion practice que
 10. **Sorted Array:**<br>
     Write a function to check if an array is sorted or not<br>
 
-11. **Stars Pattern:**
-    Write a function to print the following star pattern.
-    * *
-    *
+11. **Stars Pattern:**<br>
+    Write a function to print the following star pattern.<br>
+    * * * <br>
+    * *<br>
+    *<br>
  
-12. **Bubble Sort:**
-    Write function to do the bubble sort recursively.
+13. **Bubble Sort:**<br>
+    Write function to do the bubble sort recursively.<br>
 
-13. **Selection Sort:**
-    Write function to do the selection sort recursively
+14. **Selection Sort:**<br>
+    Write function to do the selection sort recursively<br>
 
-15. **Merge Sort:**
-    Write a function to do merge sort recursively.
+15. **Merge Sort:**<br>
+    Write a function to do merge sort recursively.<br>
 
 Each question is accompanied by a Python solution, along with an explanation of the approach used.
 
