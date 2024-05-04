@@ -39,8 +39,6 @@ Welcome to the repository containing solutions to various recursion practice que
 
 11. **Stars Pattern:**
     Write a function to print the following star pattern.
-    * * * *
-    * * *
     * *
     *
  
