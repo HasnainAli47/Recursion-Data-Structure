@@ -1,3 +1,4 @@
+# Write a function to do merge sort recursively.
 # Implement merge sort.
 # def MergeSort(arr):
 #     if len(arr) <= 1:
