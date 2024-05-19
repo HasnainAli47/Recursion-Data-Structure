@@ -50,6 +50,15 @@ Welcome to the repository containing solutions to various recursion practice que
 
 15. **Merge Sort:**<br>
     Write a function to do merge sort recursively.<br>
+    
+16. **Binary Tree:**<br>
+    Write Code to make the binary tree.<br>
+
+17. **BST:**<br>
+    Write code to make the Binary Search Tree<br>
+
+18. **AVL:**<br>
+    Write code to make the AVL Tree.<br>
 
 Each question is accompanied by a Python solution, along with an explanation of the approach used.
 
